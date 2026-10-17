@@ -26,7 +26,7 @@
     {
       "id": "2026-10-19-ghar-se-door",
       "scheduled_at": "2026-10-19T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "emotional",
       "images": [
@@ -42,7 +42,7 @@
     {
       "id": "2026-10-22-kokani-business",
       "scheduled_at": "2026-10-22T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "business",
       "images": [
