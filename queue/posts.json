@@ -13,7 +13,7 @@
     {
       "id": "2026-10-18-welcome-test",
       "scheduled_at": "2026-10-17T11:00:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "image",
       "pillar": "brand",
       "images": [
