@@ -1,0 +1,47 @@
+name: Publish to Instagram
+
+# Posting slots: Saturday, Monday, Thursday at 2:30 PM KSA (11:30 UTC).
+# GitHub may start scheduled runs a few minutes late, so the main run is at
+# 11:32 UTC with two catch-up runs. A post is only ever published once.
+on:
+  schedule:
+    - cron: "32 11 * * 1,4,6"
+    - cron: "32 12,13 * * 1,4,6"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (check the queue without posting)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish due, approved posts
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          MEDIA_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: python3 scripts/publish.py
+
+      - name: Save queue status
+        if: always()
+        run: |
+          if ! git diff --quiet queue/posts.json; then
+            git config user.name "kokani-social-bot"
+            git config user.email "kokani-social-bot@users.noreply.github.com"
+            git add queue/posts.json
+            git commit -m "Update post status [skip ci]"
+            git push
+          fi

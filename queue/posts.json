@@ -1,0 +1,19 @@
+{
+  "schedule": {
+    "timezone": "Asia/Riyadh",
+    "days": ["Saturday", "Monday", "Thursday"],
+    "time": "14:30",
+    "posts_per_week": 3
+  },
+  "posts": [
+    {
+      "id": "2026-10-19-example",
+      "scheduled_at": "2026-10-19T11:30:00+00:00",
+      "status": "draft",
+      "type": "image",
+      "pillar": "jobs",
+      "images": ["media/2026-10-19-example.jpg"],
+      "caption": "Example post. Status 'draft' means it will never be published."
+    }
+  ]
+}
