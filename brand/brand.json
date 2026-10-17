@@ -1,0 +1,21 @@
+{
+  "name": "Kokani Connect",
+  "logo": {
+    "square": "brand/logo-square.png",
+    "wide": "brand/logo-wide.png",
+    "note": "White + red logo designed for the charcoal background. Do not recolour or stretch."
+  },
+  "colors": {
+    "background": "#222222",
+    "primary_text": "#FFFFFF",
+    "accent_red": "#FF0000",
+    "off_white": "#F6F4F0",
+    "muted_grey": "#919191"
+  },
+  "typography": {
+    "headline": "Poppins Bold (closest match to the logo's bold rounded letterforms)",
+    "body": "Poppins Regular / Medium"
+  },
+  "style": "Dark charcoal background, white headlines, red for one key word or the call-to-action. Logo on every post.",
+  "post_sizes": {"portrait": "1080x1350", "square": "1080x1080", "story_reel": "1080x1920"}
+}
