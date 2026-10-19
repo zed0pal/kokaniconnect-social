@@ -26,6 +26,7 @@ BRAND = json.loads((ROOT / "brand" / "brand.json").read_text())
 C = BRAND["colors"]
 BG, WH, RED, MUT = C["background"], C["primary_text"], C["accent_red"], "#BDBDBD"
 W, H, M = 1080, 1350, 80
+SAFE_BOTTOM = 0  # Reels: keep logo/text clear of Instagram's caption overlay
 FONT_DIR = "/usr/share/fonts/truetype/google-fonts/Poppins-"
 
 
@@ -89,7 +90,7 @@ def draw_rich(draw, x, y, words, fnt):
 def render_slide(s, idx, total):
     """Draw once off-screen to measure height, then again vertically centred."""
     probe = _render(s, idx, total, 0)
-    top = max(110, (H - 230 - probe) // 2)
+    top = max(110, (H - SAFE_BOTTOM - 230 - probe) // 2)
     img = Image.new("RGB", (W, H), BG)
     _render(s, idx, total, top, img)
     return img
@@ -142,12 +143,12 @@ def _render(s, idx, total, y0, img=None):
     if not draw_on:
         return y - y0
     # footer: logo bottom-left, slide counter / swipe bottom-right
-    paste_logo(img, 300, M, H - 190)
+    paste_logo(img, 300, M, H - SAFE_BOTTOM - 190)
     if total > 1:
         hint = "Swipe" if idx < total else f"{idx}/{total}"
-        d.text((W - M - (44 if idx < total else 0), H - 120), hint, font=font("Medium", 34), fill=MUT, anchor="rm")
+        d.text((W - M - (44 if idx < total else 0), H - SAFE_BOTTOM - 120), hint, font=font("Medium", 34), fill=MUT, anchor="rm")
         if idx < total:  # drawn chevron (font has no arrow glyph)
-            cx, cy = W - M - 18, H - 120
+            cx, cy = W - M - 18, H - SAFE_BOTTOM - 120
             d.line([(cx - 12, cy - 14), (cx + 4, cy), (cx - 12, cy + 14)], fill=RED, width=5, joint="curve")
     d.rectangle([0, H - 14, W, H], fill=RED)
     return y - y0
