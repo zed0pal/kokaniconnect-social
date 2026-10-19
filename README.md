@@ -9,6 +9,15 @@ Automated Instagram publishing for [@kokaniconnect_hub](https://www.instagram.co
 3. The **Publish to Instagram** workflow runs on **Saturday, Monday and Thursday at 2:30 PM KSA** and posts anything approved and due.
 4. The **Refresh Instagram token** workflow renews the access token on the 1st and 15th of each month.
 
+## Post formats
+
+- **Carousel / image** (`"type": "carousel"` or `"image"`): `images` list, 1080×1350 JPEG, made with `scripts/design.py`.
+- **Reel** (`"type": "reel"`): `video` (MP4) and `cover` (JPEG), made with `scripts/make_reel.py specs/<id>.json --mood warm|uplifting --seed N`. Background music is composed originally by `scripts/music.py` (no third-party audio), so there is nothing for copyright checks to match.
+
+Mix: Reels with music for emotional/story posts, carousels for information posts (jobs, businesses).
+
+The **Test Reel upload (no posting)** workflow uploads `media/test-reel.mp4` to Instagram and confirms it is accepted, without publishing.
+
 ## Post statuses
 
 | Status | Meaning |

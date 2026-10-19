@@ -44,9 +44,9 @@ def call(method, path, params):
         raise RuntimeError(f"Instagram API {e.code} on {path}: {body}") from None
 
 
-def wait_ready(container_id, token):
+def wait_ready(container_id, token, attempts=30):
     """Instagram processes media asynchronously; wait until it's FINISHED."""
-    for _ in range(30):
+    for _ in range(attempts):
         s = call("GET", container_id, {"fields": "status_code", "access_token": token})
         code = s.get("status_code")
         if code == "FINISHED":
@@ -54,14 +54,33 @@ def wait_ready(container_id, token):
         if code in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"Container {container_id} status {code}")
         time.sleep(5)
-    raise RuntimeError(f"Container {container_id} not ready after 150s")
+    raise RuntimeError(f"Container {container_id} not ready after {attempts * 5}s")
 
 
 def media_url(base, path):
     return f"{base.rstrip('/')}/{urllib.parse.quote(path.lstrip('/'))}"
 
 
+def reel_container(post, user_id, token, base):
+    params = {
+        "media_type": "REELS",
+        "video_url": media_url(base, post["video"]),
+        "caption": post.get("caption", ""),
+        "share_to_feed": "true",
+        "access_token": token,
+    }
+    if post.get("cover"):
+        params["cover_url"] = media_url(base, post["cover"])
+    c = call("POST", f"{user_id}/media", params)["id"]
+    wait_ready(c, token, attempts=60)  # video processing can take a few minutes
+    return c
+
+
 def publish(post, user_id, token, base):
+    if post.get("type") == "reel":
+        c = reel_container(post, user_id, token, base)
+        return call("POST", f"{user_id}/media_publish",
+                    {"creation_id": c, "access_token": token})["id"]
     images = post["images"]
     caption = post["caption"]
     if len(images) == 1:
@@ -91,12 +110,22 @@ def publish(post, user_id, token, base):
                 {"creation_id": c, "access_token": token})["id"]
 
 
+def check_reel(video, user_id, token, base):
+    """Upload a Reel container and wait for Instagram to accept it. Never publishes."""
+    c = reel_container({"video": video, "caption": "test"}, user_id, token, base)
+    print(f"OK: Instagram accepted {video} (container {c}). Nothing was published.")
+
+
 def main():
     token = os.environ.get("IG_ACCESS_TOKEN", "")
     user_id = os.environ.get("IG_USER_ID", "")
     base = os.environ.get("MEDIA_BASE_URL", "")
     if not DRY_RUN and not (token and user_id and base):
         sys.exit("Missing IG_ACCESS_TOKEN, IG_USER_ID or MEDIA_BASE_URL")
+
+    if os.environ.get("CHECK_REEL"):
+        check_reel(os.environ["CHECK_REEL"], user_id, token, base)
+        return
 
     queue = json.loads(QUEUE.read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
@@ -108,12 +137,14 @@ def main():
         due = datetime.fromisoformat(post["scheduled_at"])
         if due > now:
             continue
-        for img in post["images"]:
-            if not (ROOT / img).is_file():
-                raise SystemExit(f"{post['id']}: missing image file {img}")
+        files = post.get("images", []) + [post[k] for k in ("video", "cover") if post.get(k)]
+        for f in files:
+            if not (ROOT / f).is_file():
+                raise SystemExit(f"{post['id']}: missing file {f}")
         due_count += 1
         if DRY_RUN:
-            print(f"[dry run] would publish {post['id']} ({len(post['images'])} image(s))")
+            what = "reel" if post.get("type") == "reel" else f"{len(post['images'])} image(s)"
+            print(f"[dry run] would publish {post['id']} ({what})")
             continue
         try:
             media_id = publish(post, user_id, token, base)
