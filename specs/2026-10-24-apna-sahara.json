@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-24-apna-sahara",
+ "slides": [
+  {
+   "kicker": "Pehla din, naya shehar",
+   "lines": [
+    "New city.",
+    "New job.",
+    "*No one you know.*"
+   ],
+   "headline_size": 88
+  },
+  {
+   "kicker": "Phir ek awaaz",
+   "lines": [
+    "\"Aap bhi",
+    "*Kokan se ho?\"*"
+   ],
+   "body": [
+    "One question. And suddenly, a stranger feels like family."
+   ]
+  },
+  {
+   "kicker": "Yahi hai Kokani dil",
+   "lines": [
+    "A room to share.",
+    "A meal from home.",
+    "*A way forward.*"
+   ]
+  },
+  {
+   "kicker": "Humne seekha",
+   "lines": [
+    "When one Kokani rises, *we all rise.*"
+   ],
+   "body": [
+    "We help because someone once helped us."
+   ]
+  },
+  {
+   "kicker": "Aao, saath chalein",
+   "lines": [
+    "Be that *awaaz* for the next Kokani."
+   ],
+   "cta": "Join free at kokaniconnect.com"
+  }
+ ]
+}
