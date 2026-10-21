@@ -59,7 +59,7 @@
     {
       "id": "2026-10-24-apna-sahara",
       "scheduled_at": "2026-10-24T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "emotional",
       "video": "media/2026-10-24-apna-sahara-reel.mp4",
@@ -69,7 +69,7 @@
     {
       "id": "2026-10-26-gulf-job-tips",
       "scheduled_at": "2026-10-26T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "career-tips",
       "images": [
@@ -86,7 +86,7 @@
     {
       "id": "2026-10-29-pass-it-on",
       "scheduled_at": "2026-10-29T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "community-cta",
       "video": "media/2026-10-29-pass-it-on-reel.mp4",
