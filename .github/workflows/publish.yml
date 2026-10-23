@@ -1,12 +1,13 @@
 name: Publish to Instagram
 
-# Posting slots: Saturday, Monday, Thursday at 2:30 PM KSA (11:30 UTC).
-# GitHub may start scheduled runs a few minutes late, so the main run is at
-# 11:32 UTC with two catch-up runs. A post is only ever published once.
+# Runs every hour (and at 11:32 UTC = 2:32 PM KSA for the regular slots), so
+# any approved post publishes shortly after its scheduled_at time, on any day.
+# GitHub may start scheduled runs a few minutes late. A post is only ever
+# published once; runs with nothing due finish in seconds.
 on:
   schedule:
-    - cron: "32 11 * * 1,4,6"
-    - cron: "32 12,13 * * 1,4,6"
+    - cron: "2 * * * *"
+    - cron: "32 11 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

@@ -72,7 +72,7 @@ def reel_container(post, user_id, token, base):
     if post.get("cover"):
         params["cover_url"] = media_url(base, post["cover"])
     c = call("POST", f"{user_id}/media", params)["id"]
-    wait_ready(c, token, attempts=60)  # video processing can take a few minutes
+    wait_ready(c, token, attempts=150)  # longer videos can take several minutes to process
     return c
 
 

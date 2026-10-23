@@ -1,9 +1,13 @@
 name: Test Reel upload (no posting)
 
-# Uploads media/test-reel.mp4 to Instagram as a Reel container and waits for
+# Uploads a video (default media/test-reel.mp4) to Instagram as a Reel container and waits for
 # Instagram to accept it. It never publishes anything.
 on:
   workflow_dispatch:
+    inputs:
+      video:
+        description: "Video to test (path in the repo)"
+        default: media/test-reel.mp4
 
 permissions:
   contents: read
@@ -18,5 +22,5 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           MEDIA_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-          CHECK_REEL: media/test-reel.mp4
+          CHECK_REEL: ${{ inputs.video || 'media/test-reel.mp4' }}
         run: python3 scripts/publish.py

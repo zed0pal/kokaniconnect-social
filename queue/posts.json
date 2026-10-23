@@ -59,8 +59,18 @@
       "published_at": "2026-10-22T12:02:17+00:00"
     },
     {
+      "id": "2026-10-24-mentorship-appeal",
+      "scheduled_at": "2026-10-24T07:00:00+00:00",
+      "status": "approved",
+      "type": "reel",
+      "pillar": "mentorship",
+      "video": "media/2026-10-24-mentorship-appeal-reel.mp4",
+      "cover": "media/2026-10-24-mentorship-appeal-reel-cover.jpg",
+      "caption": "Sirf 1 ghanta. Ek Kokani ki zindagi badal sakta hai. 🤝\n\nAapne zindagi mein jo seekha hai — career, business, pardes ka tajurba — woh kisi Kokani youth ke liye raasta ban sakta hai.\n\nKokani Connect par mentor baniye. Mahine mein sirf ek ghanta, apni community ke liye. Yeh ek sadqa hai jo aage badhta hai. ❤️\n\n👉 Become a mentor: link in bio, or scan the QR code at the end of the video\n\nAgar yeh baat dil ko lagi, toh apno tak pahunchaiye.\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Mentorship #GiveBack #KokaniInGulf #Konkan"
+    },
+    {
       "id": "2026-10-24-apna-sahara",
-      "scheduled_at": "2026-10-24T11:30:00+00:00",
+      "scheduled_at": "2026-10-25T11:30:00+00:00",
       "status": "approved",
       "type": "reel",
       "pillar": "emotional",
