@@ -164,7 +164,7 @@
     {
       "id": "2026-11-07-ammi-ka-phone",
       "scheduled_at": "2026-11-07T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "emotional",
       "video": "media/2026-11-07-ammi-ka-phone-reel.mp4",
@@ -174,7 +174,7 @@
     {
       "id": "2026-11-09-interview-tips",
       "scheduled_at": "2026-11-09T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "career-tips",
       "images": [
@@ -191,7 +191,7 @@
     {
       "id": "2026-11-12-mentor-gift",
       "scheduled_at": "2026-11-12T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "mentorship",
       "images": [
