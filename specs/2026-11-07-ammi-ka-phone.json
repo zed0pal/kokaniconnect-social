@@ -1,0 +1,56 @@
+{
+ "id": "2026-11-07-ammi-ka-phone",
+ "slides": [
+  {
+   "kicker": "Kaam ke baad",
+   "lines": [
+    "A long day ends.",
+    "*The phone rings.*"
+   ],
+   "headline_size": 88
+  },
+  {
+   "kicker": "Ghar se",
+   "lines": [
+    "\"Khana khaya?\""
+   ],
+   "body": [
+    "The same question, every single day. From a home thousands of kilometres away."
+   ]
+  },
+  {
+   "kicker": "Hum kehte hain",
+   "lines": [
+    "\"Haan,",
+    "*sab theek hai.\"*"
+   ],
+   "body": [
+    "Even on the hard days. Because we don't want them to worry."
+   ]
+  },
+  {
+   "kicker": "Aur woh jaante hain",
+   "lines": [
+    "Every call carries *their duaayein.*"
+   ],
+   "body": [
+    "Their prayers reach us, wherever we are."
+   ]
+  },
+  {
+   "kicker": "Aaj hi",
+   "lines": [
+    "Call home.",
+    "*Just to listen.*"
+   ]
+  },
+  {
+   "kicker": "Kahin bhi rahein",
+   "lines": [
+    "Distance is far.",
+    "*Family is close.*"
+   ],
+   "cta": "kokaniconnect.com"
+  }
+ ]
+}

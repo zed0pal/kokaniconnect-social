@@ -1,0 +1,11 @@
+{
+ "id": "2026-11-12-mentor-gift",
+ "slides": [
+  {"kicker": "Mentorship", "lines": ["What can you give in *one hour* a month?"], "headline_size": 80, "footer": "swipe"},
+  {"kicker": "Your story", "lines": ["How you *started.*"], "body": ["The mistakes, the first job, the first move abroad. Someone needs to hear it."]},
+  {"kicker": "Your advice", "lines": ["A *real* answer."], "body": ["Which course? Which city? Which offer? Honest guidance from someone who has walked the road."]},
+  {"kicker": "Your confidence", "lines": ["\"You *can* do this.\""], "body": ["Sometimes that one sentence from a senior changes everything."]},
+  {"kicker": "Socho", "lines": ["Someone once *helped you* grow.", "Now it's your turn."]},
+  {"kicker": "Mentor baniye", "lines": ["Give back to *your community.*"], "cta": "kokaniconnect.com/mentorship"}
+ ]
+}
