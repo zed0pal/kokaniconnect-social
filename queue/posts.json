@@ -213,7 +213,7 @@
     {
       "id": "2026-11-14-chhutti-ghar",
       "scheduled_at": "2026-11-14T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "emotional",
       "video": "media/2026-11-14-chhutti-ghar-reel.mp4",
@@ -223,7 +223,7 @@
     {
       "id": "2026-11-16-career-explorer",
       "scheduled_at": "2026-11-16T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "career-youth",
       "images": [
@@ -240,7 +240,7 @@
     {
       "id": "2026-11-19-fikr-chhodo",
       "scheduled_at": "2026-11-19T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "learning-wellbeing",
       "video": "media/2026-11-19-fikr-chhodo-reel.mp4",
