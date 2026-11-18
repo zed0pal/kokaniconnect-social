@@ -256,7 +256,7 @@
     {
       "id": "2026-11-21-pehli-tankhwah",
       "scheduled_at": "2026-11-21T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "emotional",
       "video": "media/2026-11-21-pehli-tankhwah-reel.mp4",
@@ -266,7 +266,7 @@
     {
       "id": "2026-11-23-self-confidence",
       "scheduled_at": "2026-11-23T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "career-tips",
       "images": [
@@ -283,7 +283,7 @@
     {
       "id": "2026-11-26-gulf-course",
       "scheduled_at": "2026-11-26T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "learning-course",
       "images": [
