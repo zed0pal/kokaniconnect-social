@@ -1,0 +1,11 @@
+{
+ "id": "2026-11-21-pehli-tankhwah",
+ "slides": [
+  {"kicker": "Pehli tankhwah", "lines": ["Remember your", "*first salary?*"], "headline_size": 92},
+  {"kicker": "Pardes ka pehla mahina", "lines": ["New city.", "New job.", "*Bahut saari umeedein.*"]},
+  {"kicker": "Woh din", "lines": ["The first thing", "you did with it?", "*Sent it home.*"]},
+  {"kicker": "Ghar pe", "lines": ["Abba ki aankhon", "mein *fakhr.*"], "body": ["Ammi ki dua, jo har roz saath chalti hai."]},
+  {"kicker": "Aaj bhi", "lines": ["Every month,", "a little of us", "*goes home.*"]},
+  {"kicker": "Apno ke liye", "lines": ["Mehnat yahan,", "*dil wahan.*"], "cta": "kokaniconnect.com"}
+ ]
+}
