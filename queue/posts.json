@@ -1,351 +1,351 @@
 {
- "schedule": {
-  "timezone": "Asia/Riyadh",
-  "days": [
-   "Saturday",
-   "Monday",
-   "Thursday"
-  ],
-  "time": "14:30",
-  "posts_per_week": 3
- },
- "posts": [
-  {
-   "id": "2026-10-18-welcome-test",
-   "scheduled_at": "2026-10-17T11:00:00+00:00",
-   "status": "published",
-   "type": "image",
-   "pillar": "brand",
-   "images": [
-    "media/2026-10-18-welcome.jpg"
-   ],
-   "caption": "One community. Five continents. Ek Kokan. 🌊\n\nRiyadh ho ya Dubai, Doha ho ya Mahad — Kokani log har jagah mehnat kar rahe hain. Ab sab ek jagah connect ho sakte hain.\n\n✅ Kokani talent profiles\n✅ Jobs posted by people you can reach\n✅ Verified Kokani businesses\n\nApni community ko strong banana hai? Join karo, share karo, aur kisi Kokani bhai-behen ko aage badhne mein madad karo. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #RiyadhJobs #MumbaiJobs",
-   "ig_media_id": "17906187159596806",
-   "published_at": "2026-10-17T11:52:21+00:00"
+  "schedule": {
+    "timezone": "Asia/Riyadh",
+    "days": [
+      "Saturday",
+      "Monday",
+      "Thursday"
+    ],
+    "time": "14:30",
+    "posts_per_week": 3
   },
-  {
-   "id": "2026-10-19-ghar-se-door",
-   "scheduled_at": "2026-10-19T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "emotional",
-   "images": [
-    "media/2026-10-19-ghar-se-door-1.jpg",
-    "media/2026-10-19-ghar-se-door-2.jpg",
-    "media/2026-10-19-ghar-se-door-3.jpg",
-    "media/2026-10-19-ghar-se-door-4.jpg",
-    "media/2026-10-19-ghar-se-door-5.jpg",
-    "media/2026-10-19-ghar-se-door-6.jpg"
-   ],
-   "caption": "Ghar se door… dil Kokan mein. 🌴🌊\n\nHum Kokan chhod ke nikle — Riyadh, Dubai, Doha, Mumbai. Ek suitcase, bahut saare sapne, aur ghar walon ki duaayein saath le ke.\n\nPardes mein mehnat ki, zindagi banayi. Lekin kai baar yeh safar akele tay karna pada.\n\nKokani Connect isi liye hai — taaki ab koi bhi Kokani akela shuru na kare. 🤝\n\n💬 Comment karo: aap Kokan ke kaunse gaon se ho, aur abhi kahan ho?\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
-   "ig_media_id": "17950606164273052",
-   "published_at": "2026-10-19T12:04:18+00:00"
-  },
-  {
-   "id": "2026-10-22-kokani-business",
-   "scheduled_at": "2026-10-22T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "business",
-   "images": [
-    "media/2026-10-22-kokani-business-1.jpg",
-    "media/2026-10-22-kokani-business-2.jpg",
-    "media/2026-10-22-kokani-business-3.jpg",
-    "media/2026-10-22-kokani-business-4.jpg",
-    "media/2026-10-22-kokani-business-5.jpg"
-   ],
-   "caption": "Apno ka business, apni community ki taraqqi. 💪\n\nJab aap kisi Kokani business se kharidte ho, aap sirf ek service nahi lete — aap ek Kokani family ko support karte ho.\n\nKokani Connect par verified Kokani businesses hain — Kokan, Mumbai, Saudi aur UAE mein:\n✈️ Travel, Hajj & Umrah\n🏡 Hotels & homestays in Kokan\n🥭 Fruit & food suppliers\n💊 Medical stores\n📸 Photography & more\n\nAgli baar kuch chahiye? Pehle Kokani Connect check karo. 🙌\n\nAapka business hai? Verified listing banao aur Kokanis worldwide tak pahuncho.\n\n👉 kokaniconnect.com (link in bio)\n\n#SupportKokaniBusiness #KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
-   "ig_media_id": "18096986927652287",
-   "published_at": "2026-10-22T12:02:17+00:00"
-  },
-  {
-   "id": "2026-10-24-mentorship-appeal",
-   "scheduled_at": "2026-10-24T07:00:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "mentorship",
-   "video": "media/2026-10-24-mentorship-appeal-reel.mp4",
-   "cover": "media/2026-10-24-mentorship-appeal-reel-cover.jpg",
-   "caption": "Sirf 1 ghanta. Ek Kokani ki zindagi badal sakta hai. 🤝\n\nAapne zindagi mein jo seekha hai — career, business, pardes ka tajurba — woh kisi Kokani youth ke liye raasta ban sakta hai.\n\nKokani Connect par mentor baniye. Mahine mein sirf ek ghanta, apni community ke liye. Yeh ek sadqa hai jo aage badhta hai. ❤️\n\n👉 Become a mentor: link in bio, or scan the QR code at the end of the video\n\nAgar yeh baat dil ko lagi, toh apno tak pahunchaiye.\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Mentorship #GiveBack #KokaniInGulf #Konkan",
-   "ig_media_id": "18132579874765483",
-   "published_at": "2026-10-24T07:31:55+00:00"
-  },
-  {
-   "id": "2026-10-24-apna-sahara",
-   "scheduled_at": "2026-10-25T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-10-24-apna-sahara-reel.mp4",
-   "cover": "media/2026-10-24-apna-sahara-reel-cover.jpg",
-   "caption": "\"Aap bhi Kokan se ho?\" 🌴❤️\n\nNaya shehar, nayi naukri, aur koi pehchaan wala nahi. Phir ek din koi poochta hai — \"Aap bhi Kokan se ho?\" — aur ek anjaan insaan apna lagne lagta hai.\n\nRehne ki jagah, ghar jaisa khana, aage ka raasta… Kokani dil aisa hi hai. Hum madad karte hain, kyunki kabhi kisi ne humari madad ki thi. 🤝\n\nWhen one Kokani rises, we all rise. Aaj aap kisi ke liye woh awaaz bano.\n\n💬 Comment karo: pardes mein aapko pehli baar kis Kokani ne help ki thi? (Naam nahi, bas kahani.)\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
-   "ig_media_id": "18091634480238173",
-   "published_at": "2026-10-25T11:58:55+00:00"
-  },
-  {
-   "id": "2026-10-26-gulf-job-tips",
-   "scheduled_at": "2026-10-26T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "career-tips",
-   "images": [
-    "media/2026-10-26-gulf-job-tips-1.jpg",
-    "media/2026-10-26-gulf-job-tips-2.jpg",
-    "media/2026-10-26-gulf-job-tips-3.jpg",
-    "media/2026-10-26-gulf-job-tips-4.jpg",
-    "media/2026-10-26-gulf-job-tips-5.jpg",
-    "media/2026-10-26-gulf-job-tips-6.jpg",
-    "media/2026-10-26-gulf-job-tips-7.jpg"
-   ],
-   "caption": "Pehli baar Gulf mein job ka plan hai? Yeh 5 tips pehle padh lo. 📌\n\n1️⃣ CV short aur clear rakho — har application se pehle update karo.\n2️⃣ Har job offer verify karo. Koi job ke naam pe paise maange toh savdhaan rahiye.\n3️⃣ Documents ready rakho — passport, degree, marksheets, experience letters, aur sabki digital copies.\n4️⃣ Seekhte raho — achhi English, thodi Arabic, aur koi naya skill ya certificate.\n5️⃣ Akele shuru mat karo — wahan pehle se rehne wale Kokanis se baat karo, sawaal poocho.\n\nIs post ko save karo aur kisi Kokani bhai-behen ko bhejo jo abroad jaane ki tayyari kar rahe hain. 🙌\n\n👉 Apna free talent profile banao: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #GulfJobs #CareerTips #KokaniInGulf #Konkan",
-   "ig_media_id": "18129916648746041",
-   "published_at": "2026-10-26T11:34:22+00:00"
-  },
-  {
-   "id": "2026-10-29-pass-it-on",
-   "scheduled_at": "2026-10-29T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "community-cta",
-   "video": "media/2026-10-29-pass-it-on-reel.mp4",
-   "cover": "media/2026-10-29-pass-it-on-reel-cover.jpg",
-   "caption": "Ek chhoti si madad, kisi Kokani ki zindagi badal sakti hai. ✨\n\n🧑‍💼 Aapki company mein hiring hai? Job pehle apne logon ke saath share karo.\n🏪 Aapka business hai? Kokanis ko aapko dhoondhne do.\n📲 Koi job dhoondh raha hai? Aaj hi unhe link bhejo.\n\nSaath mein hum aur aage jaayenge. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #SupportKokaniBusiness #KokaniDiaspora",
-   "ig_media_id": "18088510349287716",
-   "published_at": "2026-10-29T11:34:30+00:00"
-  },
-  {
-   "id": "2026-10-31-jadon-se-jude",
-   "scheduled_at": "2026-10-31T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-10-31-jadon-se-jude-reel.mp4",
-   "cover": "media/2026-10-31-jadon-se-jude-reel-cover.jpg",
-   "caption": "Hamare bachche pardes mein bade ho rahe hain… lekin unki jadein Kokan mein hain. 🌴🌧️\n\nUnhone malls aur highways dekhe hain. Kya unhone kabhi Kokani ghar ki chhat pe baarish ki awaaz suni hai? Samandar, aam ke ped, Nani ki kahaaniyan?\n\nJadein apne aap nahi ugti. Hum unhe lagaate hain — apni zubaan se, apne khaane se, apni kahaaniyon se. 💛\n\nJab mauka mile, bachchon ko Kokan le jaaiye.\n\nKahin bhi rahein, Kokan hum mein zinda hai.\n\nOur children are growing up far from Kokan. Let's keep their roots alive.\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniRoots #KokaniFamily",
-   "ig_media_id": "18212294848367382",
-   "published_at": "2026-10-31T12:07:14+00:00"
-  },
-  {
-   "id": "2026-11-02-exam-pressure",
-   "scheduled_at": "2026-11-02T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "learning-parenting",
-   "images": [
-    "media/2026-11-02-exam-pressure-1.jpg",
-    "media/2026-11-02-exam-pressure-2.jpg",
-    "media/2026-11-02-exam-pressure-3.jpg",
-    "media/2026-11-02-exam-pressure-4.jpg",
-    "media/2026-11-02-exam-pressure-5.jpg",
-    "media/2026-11-02-exam-pressure-6.jpg",
-    "media/2026-11-02-exam-pressure-7.jpg"
-   ],
-   "caption": "Kya aapka bachcha exam pressure mehsoos kar raha hai? 📚 Parents ke liye 6 zaroori baatein:\n\n1️⃣ Stress ke signs pehchaaniye — chidchidapan, bhook na lagna, neend na aana, thakaan.\n2️⃣ Bachche ki khushi ko marks se mat jodiye. Khush bachcha behtar perform karta hai.\n3️⃣ Guide kijiye, apne sapne thopiye mat. Unke sapnon ka saath dijiye.\n4️⃣ Neend zaroori hai. Raat bhar padhne ke liye majboor mat kijiye — thoda walk, cycling ya khel bhi madad karta hai.\n5️⃣ Kam marks pe saza mat dijiye. Ek exam mein fail hona, zindagi mein fail hona nahi hai.\n6️⃣ Yaad rakhiye: success ek safar hai, ek din ka event nahi.\n\nIs post ko save kijiye aur kisi Kokani parent ke saath share kijiye. 🤝\n\n👉 Poora article padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniParents #ExamStress #Parenting #KokaniFamily #KokaniInGulf",
-   "ig_media_id": "18106912418357997",
-   "published_at": "2026-11-02T11:46:50+00:00"
-  },
-  {
-   "id": "2026-11-05-sales-mindset",
-   "scheduled_at": "2026-11-05T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "learning-book",
-   "images": [
-    "media/2026-11-05-sales-mindset-1.jpg",
-    "media/2026-11-05-sales-mindset-2.jpg",
-    "media/2026-11-05-sales-mindset-3.jpg",
-    "media/2026-11-05-sales-mindset-4.jpg",
-    "media/2026-11-05-sales-mindset-5.jpg",
-    "media/2026-11-05-sales-mindset-6.jpg",
-    "media/2026-11-05-sales-mindset-7.jpg"
-   ],
-   "caption": "Sales mein ho? Aapka mindset aapki sales bana bhi sakta hai, bigaad bhi sakta hai. 💼\n\n5 mindset traps — aur unse kaise bachein:\n\n1️⃣ Self-limiting beliefs — goals set karo, feedback maango, har rukaawat ko seekhne ka mauka samjho.\n2️⃣ Rejection ka darr — har \"no\" ek sabak hai. Customer ko jo value de rahe ho, us pe focus karo.\n3️⃣ Negative self-talk — apne aap se ek coach ki tarah baat karo. Apni strengths yaad rakho.\n4️⃣ Empathy ki kami — dhyan se suno, customer ki nazar se dekho, unki success ki parwaah karo.\n5️⃣ Sirf quick deals ka peecha — trust aur respect pe long-term rishte banao.\n\nMindset + Skillset + Toolset = Selling Set. 🔑\n\nZyada gehraai se seekhna hai? Zuber Palawkar ki book \"Do Epic Sales\" padhiye.\n\n👉 Kokani Connect shop: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #DoEpicSales #SalesMindset #B2BSales #KokaniProfessionals #CareerGrowth",
-   "ig_media_id": "18439918624182680",
-   "published_at": "2026-11-05T11:51:09+00:00"
-  },
-  {
-   "id": "2026-11-07-ammi-ka-phone",
-   "scheduled_at": "2026-11-07T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-11-07-ammi-ka-phone-reel.mp4",
-   "cover": "media/2026-11-07-ammi-ka-phone-reel-cover.jpg",
-   "caption": "\"Khana khaya?\" 📞❤️\n\nDin bhar ki mehnat ke baad phone bajta hai — aur ghar se wahi sawaal aata hai, roz.\n\nHum keh dete hain \"Haan, sab theek hai\"… mushkil dinon mein bhi, taaki unhe fikr na ho. Lekin har call ke saath unki duaayein bhi aati hain — jo hum tak pahunchti hain, hum jahan bhi hon. 🤲\n\nAaj ghar call kijiye. Kuch kehne ke liye nahi — bas sunne ke liye.\n\nDistance is far. Family is close.\n\n💬 Comment kijiye: ghar se aapko sabse zyada kaunsa sawaal poocha jaata hai?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniFamily #PardesKiZindagi",
-   "ig_media_id": "18220351699356550",
-   "published_at": "2026-11-07T15:28:43+00:00"
-  },
-  {
-   "id": "2026-11-09-interview-tips",
-   "scheduled_at": "2026-11-09T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "career-tips",
-   "images": [
-    "media/2026-11-09-interview-tips-1.jpg",
-    "media/2026-11-09-interview-tips-2.jpg",
-    "media/2026-11-09-interview-tips-3.jpg",
-    "media/2026-11-09-interview-tips-4.jpg",
-    "media/2026-11-09-interview-tips-5.jpg",
-    "media/2026-11-09-interview-tips-6.jpg",
-    "media/2026-11-09-interview-tips-7.jpg"
-   ],
-   "caption": "Interview call aaya hai? Mubarak ho! 🎉 Ab tayyari aise kijiye:\n\n1️⃣ Company ko research karo — woh kya karte hain, unke customers kaun hain, aur role ko kya chahiye.\n2️⃣ Apna CV line by line jaano — har point pe sawaal aa sakta hai, har ek ke liye ek chhota, sachcha example ready rakho.\n3️⃣ Bol ke practice karo — \"Tell me about yourself\", \"Why this job?\" — dost ke saamne ya mirror ke saamne, sirf dimaag mein nahi.\n4️⃣ Time pe pahuncho — online hai toh camera, mic aur internet pehle check karo; in person hai toh 10 minute pehle pahuncho.\n5️⃣ End mein ek achha sawaal poocho — team ke baare mein, ya role mein success kaisi dikhti hai. Phir shukriya kehna mat bhoolo. 🙏\n\nIs post ko save karo aur kisi Kokani dost ko bhejo jiska interview aane wala hai. 🙌\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #InterviewTips #CareerTips #KokaniInGulf #Konkan",
-   "ig_media_id": "18216807556361946",
-   "published_at": "2026-11-09T20:28:37+00:00"
-  },
-  {
-   "id": "2026-11-12-mentor-gift",
-   "scheduled_at": "2026-11-12T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "mentorship",
-   "images": [
-    "media/2026-11-12-mentor-gift-1.jpg",
-    "media/2026-11-12-mentor-gift-2.jpg",
-    "media/2026-11-12-mentor-gift-3.jpg",
-    "media/2026-11-12-mentor-gift-4.jpg",
-    "media/2026-11-12-mentor-gift-5.jpg",
-    "media/2026-11-12-mentor-gift-6.jpg"
-   ],
-   "caption": "Mahine mein sirf ek ghanta — aap kya de sakte hain? 🤝\n\n📖 Aapki kahani — aapne kaise shuru kiya, kya galtiyaan ki, pehli naukri, pehli baar pardes jaana. Kisi ko yeh sunna zaroori hai.\n💡 Aapki salaah — kaunsa course? Kaunsa shehar? Kaunsa offer? Us insaan se sachchi guidance jo yeh raasta chal chuka hai.\n💪 Aapka bharosa — \"Tum kar sakte ho.\" Kabhi kabhi ek senior ka yeh ek jumla sab kuch badal deta hai.\n\nKabhi kisi ne aapko aage badhne mein madad ki thi. Ab aapki baari hai. ❤️\n\n👉 Kokani Connect par mentor baniye: link in bio (kokaniconnect.com/mentorship)\n\nKisi aise senior ko tag kijiye jo ek achha mentor ban sakta hai.\n\n#KokaniConnect #Kokan #Kokani #Mentorship #GiveBack #KokaniYouth #KokaniInGulf #Konkan",
-   "ig_media_id": "18133297538502385",
-   "published_at": "2026-11-12T14:50:37+00:00"
-  },
-  {
-   "id": "2026-11-14-chhutti-ghar",
-   "scheduled_at": "2026-11-14T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-11-14-chhutti-ghar-reel.mp4",
-   "cover": "media/2026-11-14-chhutti-ghar-reel-cover.jpg",
-   "caption": "Saal bhar ka intezaar… aur phir woh din aata hai. ✈️🌴\n\nPardes mein calendar pe ek hi date sabse khaas hoti hai — chhutti ki. Ticket book hota hai, countdown shuru. Sab ke liye gifts, ek suitcase, bahut saari khushiyaan.\n\nPhir raasta coast ki taraf mudta hai — hare pahaad, laal mitti, aur samandar ki pehli hawa. 🌊 Darwaze pe koi pehle se intezaar kar raha hota hai… woh bhi din gin rahe the. ❤️\n\nKuch din ke liye, sab kuch poora lagta hai.\n\nWe leave Kokan. Kokan never leaves us.\n\n💬 Comment kijiye: ghar pahunch ke sabse pehle kya karte ho?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniFamily #GharKiYaad",
-   "ig_media_id": "17918158869538367",
-   "published_at": "2026-11-14T14:49:29+00:00"
-  },
-  {
-   "id": "2026-11-16-career-explorer",
-   "scheduled_at": "2026-11-16T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "career-youth",
-   "images": [
-    "media/2026-11-16-career-explorer-1.jpg",
-    "media/2026-11-16-career-explorer-2.jpg",
-    "media/2026-11-16-career-explorer-3.jpg",
-    "media/2026-11-16-career-explorer-4.jpg",
-    "media/2026-11-16-career-explorer-5.jpg",
-    "media/2026-11-16-career-explorer-6.jpg",
-    "media/2026-11-16-career-explorer-7.jpg"
-   ],
-   "caption": "10th ya 12th ke baad kya? Confusion normal hai — ab poora raasta ek jagah dekho. 🎓🧭\n\nKokani Connect ka naya free Career Explorer — koi sign-in nahi:\n\n1️⃣ Ek career chuno aur poora raasta dekho — 10th ke baad kaunsa stream, kaunsa entrance exam, kya padhna hai, pehli job, aur Gulf ya abroad mein kaam.\n2️⃣ Careers simple groups mein — Tech, Health, Business & finance, Engineering & design, Law & public service, Travel & hospitality, Kokan & coast.\n3️⃣ Pakka nahi pata? 5 sawaalon ka quiz lo — aapke liye careers suggest karega. Answers sirf aapke device pe rehte hain.\n4️⃣ \"Gulf demand\" aur \"Can earn sooner\" tags dekho, aur careers ko side by side compare karo.\n5️⃣ Apne paths email pe save karo aur Kokani mentor se call request karo. 18 se kam umar? Parent ka email use kijiye.\n\nGhar mein koi student hai? Yeh post unke saath share kijiye. 🤝\n\n👉 Try it free: kokaniconnect.com/career-explorer (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #CareerGuidance #AfterTenth #KokaniParents #KokaniStudents",
-   "ig_media_id": "18131030431843174",
-   "published_at": "2026-11-16T13:32:14+00:00"
-  },
-  {
-   "id": "2026-11-19-fikr-chhodo",
-   "scheduled_at": "2026-11-19T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "learning-wellbeing",
-   "video": "media/2026-11-19-fikr-chhodo-reel.mp4",
-   "cover": "media/2026-11-19-fikr-chhodo-reel-cover.jpg",
-   "caption": "Raat ke 2 baje, neend nahi… aur dimaag mein fikr hi fikr? 🌙\n\nPardes ki zindagi mein kaam, ghar, kharche — sab ki fikr ho jaati hai. Lekin yaad rakhiye:\n\n\"Past is past, future is vast, and present doesn't last.\" ✨\n\n🕰️ Aaj mein jiyo — kal se seekho, lekin aane wale imaginary problems ko yeh pal mat chheenne do.\n🤝 Akele mat raho — dost ko call karo, family ke saath baitho. Apne log fikr ke khilaaf sabse badi taaqat hain.\n🧠 Apne khayalon pe nazar rakho — negative soch neeche kheenchti hai, positive soch upar uthaati hai.\n🤲 Roz thoda mind, body aur soul ke liye — ek walk, thoda exercise, ek sukoon bhari dua.\n\nKhushi ek manzil nahi, ek safar hai. Fikr kam, khushi zyada. ❤️\n\nAgar fikr bahut zyada ho jaaye, toh kisi apne ya doctor se zaroor baat kijiye.\n\n👉 Poora article padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #DontWorryBeHappy #MentalWellbeing #KokaniInGulf #PardesKiZindagi #KokaniCommunity",
-   "ig_media_id": "18107444264336538",
-   "published_at": "2026-11-19T16:21:37+00:00"
-  },
-  {
-   "id": "2026-11-21-pehli-tankhwah",
-   "scheduled_at": "2026-11-21T11:30:00+00:00",
-   "status": "published",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-11-21-pehli-tankhwah-reel.mp4",
-   "cover": "media/2026-11-21-pehli-tankhwah-reel-cover.jpg",
-   "caption": "Pehli tankhwah yaad hai? 💌\n\nNaya shehar, nayi naukri, aur dil mein bahut saari umeedein. Mahina khatam hua, salary aayi… aur sabse pehla kaam? Ghar bhej di. ✈️🏡\n\nUs din phone pe Abba ki awaaz mein jo fakhr tha, aur Ammi ki woh dua jo har roz saath chalti hai — woh kisi bhi salary se badi cheez thi. ❤️\n\nAaj bhi har mahine, humara ek hissa ghar jaata hai. Mehnat yahan, dil wahan.\n\nOur first salary was never just money. It was a thank-you to everyone who made us who we are.\n\n💬 Comment kijiye: pehli tankhwah se aapne ghar ke liye kya kiya tha?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #PardesKiZindagi #KokaniFamily #Konkan",
-   "ig_media_id": "17984565375135263",
-   "published_at": "2026-11-21T12:11:12+00:00"
-  },
-  {
-   "id": "2026-11-23-self-confidence",
-   "scheduled_at": "2026-11-23T11:30:00+00:00",
-   "status": "published",
-   "type": "carousel",
-   "pillar": "career-tips",
-   "images": [
-    "media/2026-11-23-self-confidence-1.jpg",
-    "media/2026-11-23-self-confidence-2.jpg",
-    "media/2026-11-23-self-confidence-3.jpg",
-    "media/2026-11-23-self-confidence-4.jpg",
-    "media/2026-11-23-self-confidence-5.jpg",
-    "media/2026-11-23-self-confidence-6.jpg",
-    "media/2026-11-23-self-confidence-7.jpg"
-   ],
-   "caption": "Confidence paida nahi hota — seekha jaata hai. 💪✨\n\nKokani Connect ke guide se 5 simple steps:\n\n1️⃣ Khud pe yakeen rakho — socho, aapne kab decide kiya ki \"main nahi kar sakta\"? Chhote, clear goals poore karo; yakeen aur kaamyabi ek doosre ko badhaate hain.\n2️⃣ Positive socho — past se seekho, us mein jiyo mat. Rejection aur failure ka darr chhodo.\n3️⃣ Doosron ko blame mat karo — apni zimmedari khud lo. Role models se seekho, lekin apne jaise raho.\n4️⃣ Madad maangna kamzori nahi — izzat se maango, experts se salaah lo, aur doosron ki madad bhi karo.\n5️⃣ Body language — seedhe khade raho, shoulders peeche, sar seedha, aur baat karte waqt aankh mila ke baat karo.\n\nAur yaad rakhiye: confident bano, overconfident nahi. 🙂\n\n\"Success is not final, failure is not fatal: it is the courage to continue that counts.\"\n\nKisi student ya naye job seeker ke saath share kijiye. 🤝\n\n👉 Poora guide padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #SelfConfidence #KokaniYouth #CareerTips #SelfGrowth #KokaniInGulf",
-   "ig_media_id": "18139151539661111",
-   "published_at": "2026-11-23T11:54:21+00:00"
-  },
-  {
-   "id": "2026-11-26-gulf-course",
-   "scheduled_at": "2026-11-26T11:30:00+00:00",
-   "status": "approved",
-   "type": "carousel",
-   "pillar": "learning-course",
-   "images": [
-    "media/2026-11-26-gulf-course-1.jpg",
-    "media/2026-11-26-gulf-course-2.jpg",
-    "media/2026-11-26-gulf-course-3.jpg",
-    "media/2026-11-26-gulf-course-4.jpg",
-    "media/2026-11-26-gulf-course-5.jpg",
-    "media/2026-11-26-gulf-course-6.jpg",
-    "media/2026-11-26-gulf-course-7.jpg"
-   ],
-   "caption": "Gulf mein job chahiye? Kokani Connect ka naya FREE course aapke liye hai. 🎓💼\n\n\"Get Hired in the Gulf: CV, Profile and Interviews\" — 6 short video lessons:\n\n1️⃣ Gulf mein hiring asal mein kaise hoti hai\n2️⃣ Gulf CV jo sach mein padha jaaye — achievements aur numbers ke saath, ATS-friendly format mein\n3️⃣ Kokani Connect aur LinkedIn profile jo recruiter searches mein dikhe\n4️⃣ Jobs dhoondna aur kisi Kokani se referral maangna — aur fake jobs ko pehchaanna\n5️⃣ Interviews — STAR stories ke saath jawab dena\n6️⃣ Video interviews, salary aur offer letter\n\nSaath mein: CV checklist, STAR worksheet, 10 sawaalon ka final quiz, aur profile pe \"Course completed\" badge. 🏅\n\nFresh graduates, India se Gulf aane wale, ya GCC ke andar job badalne wale — sab ke liye. Yeh tips India aur doosri jagah ki jobs mein bhi kaam aati hain.\n\nBilkul free — bas Kokani Connect pe free sign up kijiye aur Lesson 1 shuru kijiye.\n\nKisi job seeker ko tag kijiye jise yeh chahiye. 🤝\n\n👉 Enrol free: kokaniconnect.com/courses (link in bio)\n\n#KokaniConnect #Kokan #Kokani #GulfJobs #FreeCourse #CVTips #KokaniInGulf #KokaniYouth"
-  },
-  {
-   "id": "2026-11-28-ghar-ka-swaad",
-   "scheduled_at": "2026-11-28T11:30:00+00:00",
-   "status": "draft",
-   "type": "reel",
-   "pillar": "emotional",
-   "video": "media/2026-11-28-ghar-ka-swaad-reel.mp4",
-   "cover": "media/2026-11-28-ghar-ka-swaad-reel-cover.jpg",
-   "caption": "Pardes mein ghar ka swaad dhoondhna… kise yaad nahi? 🍛❤️\n\nFriday ki shaam. Achanak ghar ke khane ki yaad aa gayi — fish curry, garam chawal, aur ek glass kokum. 🥥\n\nRecipe follow ki, sab kuch daala… phir bhi woh baat nahi aayi. Kuch toh kam hai — shayad Ammi ke haath. 🤲\n\nLekin jab khushboo poore kamre mein phail jaati hai, ek pal ke liye lagta hai hum ghar pe hain. 🏡\n\nPhir dost aa jaate hain, plates nikal aati hain, dastarkhwan bichh jaata hai. Ghar se door, hum ek doosre ki family ban gaye. 🤝\n\nFar from home, food tastes like home when it's shared.\n\n💬 Comment kijiye: pardes mein aapko ghar ki kaunsi dish sabse zyada yaad aati hai?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniFood #GharKaKhana #KokaniInGulf #PardesKiZindagi #KokaniDiaspora"
-  },
-  {
-   "id": "2026-11-30-support-kokani-business",
-   "scheduled_at": "2026-11-30T11:30:00+00:00",
-   "status": "draft",
-   "type": "carousel",
-   "pillar": "business",
-   "images": [
-    "media/2026-11-30-support-kokani-business-1.jpg",
-    "media/2026-11-30-support-kokani-business-2.jpg",
-    "media/2026-11-30-support-kokani-business-3.jpg",
-    "media/2026-11-30-support-kokani-business-4.jpg",
-    "media/2026-11-30-support-kokani-business-5.jpg",
-    "media/2026-11-30-support-kokani-business-6.jpg",
-    "media/2026-11-30-support-kokani-business-7.jpg"
-   ],
-   "caption": "Kokani business ko support karna hai? Zaroori nahi ki har baar paisa kharch ho. 💪🤝\n\n4 simple tareeke:\n\n1️⃣ Follow & share — unki post share kijiye. Ek share unhe aise customer tak pahuncha sakta hai jahan woh akele nahi pahunch sakte.\n2️⃣ Recommend — jab koi pooche \"koi achha photographer pata hai?\", toh unka naam lijiye.\n3️⃣ Review — ek kind aur honest review sirf ek minute leta hai, lekin saalon ka bharosa banata hai.\n4️⃣ Feedback — kuch galat laga? Pehle unhe privately bataiye. Apno ki izzat, apni izzat.\n\nKokani Connect par verified Kokani businesses dhoondhiye — travel, Hajj & Umrah, Kokan mein hotels & homestays, fruit & food suppliers, photography aur bahut kuch. ✈️🏡🥭📸\n\nAapka apna business hai? Kokani Connect par list kijiye — har listing live hone se pehle moderator check karta hai. ✅\n\nApne kisi Kokani business wale dost ko tag kijiye. 👇\n\n👉 kokaniconnect.com/list-business (link in bio)\n\n#KokaniConnect #Kokan #Kokani #SupportKokaniBusiness #KokaniBusiness #KokaniCommunity #KokaniInGulf #ShopLocal"
-  },
-  {
-   "id": "2026-12-03-career-checkup",
-   "scheduled_at": "2026-12-03T11:30:00+00:00",
-   "status": "draft",
-   "type": "carousel",
-   "pillar": "career-tips",
-   "images": [
-    "media/2026-12-03-career-checkup-1.jpg",
-    "media/2026-12-03-career-checkup-2.jpg",
-    "media/2026-12-03-career-checkup-3.jpg",
-    "media/2026-12-03-career-checkup-4.jpg",
-    "media/2026-12-03-career-checkup-5.jpg",
-    "media/2026-12-03-career-checkup-6.jpg",
-    "media/2026-12-03-career-checkup-7.jpg"
-   ],
-   "caption": "December aa gaya — 2026 khatam hone wala hai. Career check-up ka time! 📋✨\n\nNaye saal se pehle yeh 5 kaam kar lijiye:\n\n1️⃣ CV update — is saal ke naye skills, projects aur results likh lijiye, jab tak sab yaad hai.\n2️⃣ Profile refresh — aapka Kokani Connect aur LinkedIn profile aapke CV se match karna chahiye.\n3️⃣ Ek skill chuniye — 2027 ke liye sirf ek. Short course, certification ya ek achhi kitaab. Kokani Connect ke free courses se shuruaat kar sakte hain.\n4️⃣ Network — purane colleagues, seniors, classmates se dobara judiye. Ek simple \"Kaise ho?\" kai darwaze khula rakhta hai.\n5️⃣ Mentor se baat — jo yeh raasta chal chuka hai, woh aapke saalon bacha sakta hai.\n\nNaya saal, nayi shuruaat. Start 2027 ready! 🚀\n\nKisi dost ke saath share kijiye jo naye saal mein nayi job ya growth chahta hai. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #CareerTips #KokaniYouth #NewYearGoals #KokaniInGulf #CareerGrowth"
-  }
- ]
+  "posts": [
+    {
+      "id": "2026-10-18-welcome-test",
+      "scheduled_at": "2026-10-17T11:00:00+00:00",
+      "status": "published",
+      "type": "image",
+      "pillar": "brand",
+      "images": [
+        "media/2026-10-18-welcome.jpg"
+      ],
+      "caption": "One community. Five continents. Ek Kokan. 🌊\n\nRiyadh ho ya Dubai, Doha ho ya Mahad — Kokani log har jagah mehnat kar rahe hain. Ab sab ek jagah connect ho sakte hain.\n\n✅ Kokani talent profiles\n✅ Jobs posted by people you can reach\n✅ Verified Kokani businesses\n\nApni community ko strong banana hai? Join karo, share karo, aur kisi Kokani bhai-behen ko aage badhne mein madad karo. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #RiyadhJobs #MumbaiJobs",
+      "ig_media_id": "17906187159596806",
+      "published_at": "2026-10-17T11:52:21+00:00"
+    },
+    {
+      "id": "2026-10-19-ghar-se-door",
+      "scheduled_at": "2026-10-19T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "emotional",
+      "images": [
+        "media/2026-10-19-ghar-se-door-1.jpg",
+        "media/2026-10-19-ghar-se-door-2.jpg",
+        "media/2026-10-19-ghar-se-door-3.jpg",
+        "media/2026-10-19-ghar-se-door-4.jpg",
+        "media/2026-10-19-ghar-se-door-5.jpg",
+        "media/2026-10-19-ghar-se-door-6.jpg"
+      ],
+      "caption": "Ghar se door… dil Kokan mein. 🌴🌊\n\nHum Kokan chhod ke nikle — Riyadh, Dubai, Doha, Mumbai. Ek suitcase, bahut saare sapne, aur ghar walon ki duaayein saath le ke.\n\nPardes mein mehnat ki, zindagi banayi. Lekin kai baar yeh safar akele tay karna pada.\n\nKokani Connect isi liye hai — taaki ab koi bhi Kokani akela shuru na kare. 🤝\n\n💬 Comment karo: aap Kokan ke kaunse gaon se ho, aur abhi kahan ho?\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
+      "ig_media_id": "17950606164273052",
+      "published_at": "2026-10-19T12:04:18+00:00"
+    },
+    {
+      "id": "2026-10-22-kokani-business",
+      "scheduled_at": "2026-10-22T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "business",
+      "images": [
+        "media/2026-10-22-kokani-business-1.jpg",
+        "media/2026-10-22-kokani-business-2.jpg",
+        "media/2026-10-22-kokani-business-3.jpg",
+        "media/2026-10-22-kokani-business-4.jpg",
+        "media/2026-10-22-kokani-business-5.jpg"
+      ],
+      "caption": "Apno ka business, apni community ki taraqqi. 💪\n\nJab aap kisi Kokani business se kharidte ho, aap sirf ek service nahi lete — aap ek Kokani family ko support karte ho.\n\nKokani Connect par verified Kokani businesses hain — Kokan, Mumbai, Saudi aur UAE mein:\n✈️ Travel, Hajj & Umrah\n🏡 Hotels & homestays in Kokan\n🥭 Fruit & food suppliers\n💊 Medical stores\n📸 Photography & more\n\nAgli baar kuch chahiye? Pehle Kokani Connect check karo. 🙌\n\nAapka business hai? Verified listing banao aur Kokanis worldwide tak pahuncho.\n\n👉 kokaniconnect.com (link in bio)\n\n#SupportKokaniBusiness #KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
+      "ig_media_id": "18096986927652287",
+      "published_at": "2026-10-22T12:02:17+00:00"
+    },
+    {
+      "id": "2026-10-24-mentorship-appeal",
+      "scheduled_at": "2026-10-24T07:00:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "mentorship",
+      "video": "media/2026-10-24-mentorship-appeal-reel.mp4",
+      "cover": "media/2026-10-24-mentorship-appeal-reel-cover.jpg",
+      "caption": "Sirf 1 ghanta. Ek Kokani ki zindagi badal sakta hai. 🤝\n\nAapne zindagi mein jo seekha hai — career, business, pardes ka tajurba — woh kisi Kokani youth ke liye raasta ban sakta hai.\n\nKokani Connect par mentor baniye. Mahine mein sirf ek ghanta, apni community ke liye. Yeh ek sadqa hai jo aage badhta hai. ❤️\n\n👉 Become a mentor: link in bio, or scan the QR code at the end of the video\n\nAgar yeh baat dil ko lagi, toh apno tak pahunchaiye.\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Mentorship #GiveBack #KokaniInGulf #Konkan",
+      "ig_media_id": "18132579874765483",
+      "published_at": "2026-10-24T07:31:55+00:00"
+    },
+    {
+      "id": "2026-10-24-apna-sahara",
+      "scheduled_at": "2026-10-25T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-10-24-apna-sahara-reel.mp4",
+      "cover": "media/2026-10-24-apna-sahara-reel-cover.jpg",
+      "caption": "\"Aap bhi Kokan se ho?\" 🌴❤️\n\nNaya shehar, nayi naukri, aur koi pehchaan wala nahi. Phir ek din koi poochta hai — \"Aap bhi Kokan se ho?\" — aur ek anjaan insaan apna lagne lagta hai.\n\nRehne ki jagah, ghar jaisa khana, aage ka raasta… Kokani dil aisa hi hai. Hum madad karte hain, kyunki kabhi kisi ne humari madad ki thi. 🤝\n\nWhen one Kokani rises, we all rise. Aaj aap kisi ke liye woh awaaz bano.\n\n💬 Comment karo: pardes mein aapko pehli baar kis Kokani ne help ki thi? (Naam nahi, bas kahani.)\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #KokaniDiaspora",
+      "ig_media_id": "18091634480238173",
+      "published_at": "2026-10-25T11:58:55+00:00"
+    },
+    {
+      "id": "2026-10-26-gulf-job-tips",
+      "scheduled_at": "2026-10-26T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "career-tips",
+      "images": [
+        "media/2026-10-26-gulf-job-tips-1.jpg",
+        "media/2026-10-26-gulf-job-tips-2.jpg",
+        "media/2026-10-26-gulf-job-tips-3.jpg",
+        "media/2026-10-26-gulf-job-tips-4.jpg",
+        "media/2026-10-26-gulf-job-tips-5.jpg",
+        "media/2026-10-26-gulf-job-tips-6.jpg",
+        "media/2026-10-26-gulf-job-tips-7.jpg"
+      ],
+      "caption": "Pehli baar Gulf mein job ka plan hai? Yeh 5 tips pehle padh lo. 📌\n\n1️⃣ CV short aur clear rakho — har application se pehle update karo.\n2️⃣ Har job offer verify karo. Koi job ke naam pe paise maange toh savdhaan rahiye.\n3️⃣ Documents ready rakho — passport, degree, marksheets, experience letters, aur sabki digital copies.\n4️⃣ Seekhte raho — achhi English, thodi Arabic, aur koi naya skill ya certificate.\n5️⃣ Akele shuru mat karo — wahan pehle se rehne wale Kokanis se baat karo, sawaal poocho.\n\nIs post ko save karo aur kisi Kokani bhai-behen ko bhejo jo abroad jaane ki tayyari kar rahe hain. 🙌\n\n👉 Apna free talent profile banao: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #GulfJobs #CareerTips #KokaniInGulf #Konkan",
+      "ig_media_id": "18129916648746041",
+      "published_at": "2026-10-26T11:34:22+00:00"
+    },
+    {
+      "id": "2026-10-29-pass-it-on",
+      "scheduled_at": "2026-10-29T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "community-cta",
+      "video": "media/2026-10-29-pass-it-on-reel.mp4",
+      "cover": "media/2026-10-29-pass-it-on-reel-cover.jpg",
+      "caption": "Ek chhoti si madad, kisi Kokani ki zindagi badal sakti hai. ✨\n\n🧑‍💼 Aapki company mein hiring hai? Job pehle apne logon ke saath share karo.\n🏪 Aapka business hai? Kokanis ko aapko dhoondhne do.\n📲 Koi job dhoondh raha hai? Aaj hi unhe link bhejo.\n\nSaath mein hum aur aage jaayenge. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniCommunity #Konkan #KokaniInGulf #SupportKokaniBusiness #KokaniDiaspora",
+      "ig_media_id": "18088510349287716",
+      "published_at": "2026-10-29T11:34:30+00:00"
+    },
+    {
+      "id": "2026-10-31-jadon-se-jude",
+      "scheduled_at": "2026-10-31T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-10-31-jadon-se-jude-reel.mp4",
+      "cover": "media/2026-10-31-jadon-se-jude-reel-cover.jpg",
+      "caption": "Hamare bachche pardes mein bade ho rahe hain… lekin unki jadein Kokan mein hain. 🌴🌧️\n\nUnhone malls aur highways dekhe hain. Kya unhone kabhi Kokani ghar ki chhat pe baarish ki awaaz suni hai? Samandar, aam ke ped, Nani ki kahaaniyan?\n\nJadein apne aap nahi ugti. Hum unhe lagaate hain — apni zubaan se, apne khaane se, apni kahaaniyon se. 💛\n\nJab mauka mile, bachchon ko Kokan le jaaiye.\n\nKahin bhi rahein, Kokan hum mein zinda hai.\n\nOur children are growing up far from Kokan. Let's keep their roots alive.\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniRoots #KokaniFamily",
+      "ig_media_id": "18212294848367382",
+      "published_at": "2026-10-31T12:07:14+00:00"
+    },
+    {
+      "id": "2026-11-02-exam-pressure",
+      "scheduled_at": "2026-11-02T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "learning-parenting",
+      "images": [
+        "media/2026-11-02-exam-pressure-1.jpg",
+        "media/2026-11-02-exam-pressure-2.jpg",
+        "media/2026-11-02-exam-pressure-3.jpg",
+        "media/2026-11-02-exam-pressure-4.jpg",
+        "media/2026-11-02-exam-pressure-5.jpg",
+        "media/2026-11-02-exam-pressure-6.jpg",
+        "media/2026-11-02-exam-pressure-7.jpg"
+      ],
+      "caption": "Kya aapka bachcha exam pressure mehsoos kar raha hai? 📚 Parents ke liye 6 zaroori baatein:\n\n1️⃣ Stress ke signs pehchaaniye — chidchidapan, bhook na lagna, neend na aana, thakaan.\n2️⃣ Bachche ki khushi ko marks se mat jodiye. Khush bachcha behtar perform karta hai.\n3️⃣ Guide kijiye, apne sapne thopiye mat. Unke sapnon ka saath dijiye.\n4️⃣ Neend zaroori hai. Raat bhar padhne ke liye majboor mat kijiye — thoda walk, cycling ya khel bhi madad karta hai.\n5️⃣ Kam marks pe saza mat dijiye. Ek exam mein fail hona, zindagi mein fail hona nahi hai.\n6️⃣ Yaad rakhiye: success ek safar hai, ek din ka event nahi.\n\nIs post ko save kijiye aur kisi Kokani parent ke saath share kijiye. 🤝\n\n👉 Poora article padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniParents #ExamStress #Parenting #KokaniFamily #KokaniInGulf",
+      "ig_media_id": "18106912418357997",
+      "published_at": "2026-11-02T11:46:50+00:00"
+    },
+    {
+      "id": "2026-11-05-sales-mindset",
+      "scheduled_at": "2026-11-05T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "learning-book",
+      "images": [
+        "media/2026-11-05-sales-mindset-1.jpg",
+        "media/2026-11-05-sales-mindset-2.jpg",
+        "media/2026-11-05-sales-mindset-3.jpg",
+        "media/2026-11-05-sales-mindset-4.jpg",
+        "media/2026-11-05-sales-mindset-5.jpg",
+        "media/2026-11-05-sales-mindset-6.jpg",
+        "media/2026-11-05-sales-mindset-7.jpg"
+      ],
+      "caption": "Sales mein ho? Aapka mindset aapki sales bana bhi sakta hai, bigaad bhi sakta hai. 💼\n\n5 mindset traps — aur unse kaise bachein:\n\n1️⃣ Self-limiting beliefs — goals set karo, feedback maango, har rukaawat ko seekhne ka mauka samjho.\n2️⃣ Rejection ka darr — har \"no\" ek sabak hai. Customer ko jo value de rahe ho, us pe focus karo.\n3️⃣ Negative self-talk — apne aap se ek coach ki tarah baat karo. Apni strengths yaad rakho.\n4️⃣ Empathy ki kami — dhyan se suno, customer ki nazar se dekho, unki success ki parwaah karo.\n5️⃣ Sirf quick deals ka peecha — trust aur respect pe long-term rishte banao.\n\nMindset + Skillset + Toolset = Selling Set. 🔑\n\nZyada gehraai se seekhna hai? Zuber Palawkar ki book \"Do Epic Sales\" padhiye.\n\n👉 Kokani Connect shop: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #DoEpicSales #SalesMindset #B2BSales #KokaniProfessionals #CareerGrowth",
+      "ig_media_id": "18439918624182680",
+      "published_at": "2026-11-05T11:51:09+00:00"
+    },
+    {
+      "id": "2026-11-07-ammi-ka-phone",
+      "scheduled_at": "2026-11-07T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-11-07-ammi-ka-phone-reel.mp4",
+      "cover": "media/2026-11-07-ammi-ka-phone-reel-cover.jpg",
+      "caption": "\"Khana khaya?\" 📞❤️\n\nDin bhar ki mehnat ke baad phone bajta hai — aur ghar se wahi sawaal aata hai, roz.\n\nHum keh dete hain \"Haan, sab theek hai\"… mushkil dinon mein bhi, taaki unhe fikr na ho. Lekin har call ke saath unki duaayein bhi aati hain — jo hum tak pahunchti hain, hum jahan bhi hon. 🤲\n\nAaj ghar call kijiye. Kuch kehne ke liye nahi — bas sunne ke liye.\n\nDistance is far. Family is close.\n\n💬 Comment kijiye: ghar se aapko sabse zyada kaunsa sawaal poocha jaata hai?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniFamily #PardesKiZindagi",
+      "ig_media_id": "18220351699356550",
+      "published_at": "2026-11-07T15:28:43+00:00"
+    },
+    {
+      "id": "2026-11-09-interview-tips",
+      "scheduled_at": "2026-11-09T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "career-tips",
+      "images": [
+        "media/2026-11-09-interview-tips-1.jpg",
+        "media/2026-11-09-interview-tips-2.jpg",
+        "media/2026-11-09-interview-tips-3.jpg",
+        "media/2026-11-09-interview-tips-4.jpg",
+        "media/2026-11-09-interview-tips-5.jpg",
+        "media/2026-11-09-interview-tips-6.jpg",
+        "media/2026-11-09-interview-tips-7.jpg"
+      ],
+      "caption": "Interview call aaya hai? Mubarak ho! 🎉 Ab tayyari aise kijiye:\n\n1️⃣ Company ko research karo — woh kya karte hain, unke customers kaun hain, aur role ko kya chahiye.\n2️⃣ Apna CV line by line jaano — har point pe sawaal aa sakta hai, har ek ke liye ek chhota, sachcha example ready rakho.\n3️⃣ Bol ke practice karo — \"Tell me about yourself\", \"Why this job?\" — dost ke saamne ya mirror ke saamne, sirf dimaag mein nahi.\n4️⃣ Time pe pahuncho — online hai toh camera, mic aur internet pehle check karo; in person hai toh 10 minute pehle pahuncho.\n5️⃣ End mein ek achha sawaal poocho — team ke baare mein, ya role mein success kaisi dikhti hai. Phir shukriya kehna mat bhoolo. 🙏\n\nIs post ko save karo aur kisi Kokani dost ko bhejo jiska interview aane wala hai. 🙌\n\n👉 Join free: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #InterviewTips #CareerTips #KokaniInGulf #Konkan",
+      "ig_media_id": "18216807556361946",
+      "published_at": "2026-11-09T20:28:37+00:00"
+    },
+    {
+      "id": "2026-11-12-mentor-gift",
+      "scheduled_at": "2026-11-12T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "mentorship",
+      "images": [
+        "media/2026-11-12-mentor-gift-1.jpg",
+        "media/2026-11-12-mentor-gift-2.jpg",
+        "media/2026-11-12-mentor-gift-3.jpg",
+        "media/2026-11-12-mentor-gift-4.jpg",
+        "media/2026-11-12-mentor-gift-5.jpg",
+        "media/2026-11-12-mentor-gift-6.jpg"
+      ],
+      "caption": "Mahine mein sirf ek ghanta — aap kya de sakte hain? 🤝\n\n📖 Aapki kahani — aapne kaise shuru kiya, kya galtiyaan ki, pehli naukri, pehli baar pardes jaana. Kisi ko yeh sunna zaroori hai.\n💡 Aapki salaah — kaunsa course? Kaunsa shehar? Kaunsa offer? Us insaan se sachchi guidance jo yeh raasta chal chuka hai.\n💪 Aapka bharosa — \"Tum kar sakte ho.\" Kabhi kabhi ek senior ka yeh ek jumla sab kuch badal deta hai.\n\nKabhi kisi ne aapko aage badhne mein madad ki thi. Ab aapki baari hai. ❤️\n\n👉 Kokani Connect par mentor baniye: link in bio (kokaniconnect.com/mentorship)\n\nKisi aise senior ko tag kijiye jo ek achha mentor ban sakta hai.\n\n#KokaniConnect #Kokan #Kokani #Mentorship #GiveBack #KokaniYouth #KokaniInGulf #Konkan",
+      "ig_media_id": "18133297538502385",
+      "published_at": "2026-11-12T14:50:37+00:00"
+    },
+    {
+      "id": "2026-11-14-chhutti-ghar",
+      "scheduled_at": "2026-11-14T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-11-14-chhutti-ghar-reel.mp4",
+      "cover": "media/2026-11-14-chhutti-ghar-reel-cover.jpg",
+      "caption": "Saal bhar ka intezaar… aur phir woh din aata hai. ✈️🌴\n\nPardes mein calendar pe ek hi date sabse khaas hoti hai — chhutti ki. Ticket book hota hai, countdown shuru. Sab ke liye gifts, ek suitcase, bahut saari khushiyaan.\n\nPhir raasta coast ki taraf mudta hai — hare pahaad, laal mitti, aur samandar ki pehli hawa. 🌊 Darwaze pe koi pehle se intezaar kar raha hota hai… woh bhi din gin rahe the. ❤️\n\nKuch din ke liye, sab kuch poora lagta hai.\n\nWe leave Kokan. Kokan never leaves us.\n\n💬 Comment kijiye: ghar pahunch ke sabse pehle kya karte ho?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #Konkan #KokaniFamily #GharKiYaad",
+      "ig_media_id": "17918158869538367",
+      "published_at": "2026-11-14T14:49:29+00:00"
+    },
+    {
+      "id": "2026-11-16-career-explorer",
+      "scheduled_at": "2026-11-16T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "career-youth",
+      "images": [
+        "media/2026-11-16-career-explorer-1.jpg",
+        "media/2026-11-16-career-explorer-2.jpg",
+        "media/2026-11-16-career-explorer-3.jpg",
+        "media/2026-11-16-career-explorer-4.jpg",
+        "media/2026-11-16-career-explorer-5.jpg",
+        "media/2026-11-16-career-explorer-6.jpg",
+        "media/2026-11-16-career-explorer-7.jpg"
+      ],
+      "caption": "10th ya 12th ke baad kya? Confusion normal hai — ab poora raasta ek jagah dekho. 🎓🧭\n\nKokani Connect ka naya free Career Explorer — koi sign-in nahi:\n\n1️⃣ Ek career chuno aur poora raasta dekho — 10th ke baad kaunsa stream, kaunsa entrance exam, kya padhna hai, pehli job, aur Gulf ya abroad mein kaam.\n2️⃣ Careers simple groups mein — Tech, Health, Business & finance, Engineering & design, Law & public service, Travel & hospitality, Kokan & coast.\n3️⃣ Pakka nahi pata? 5 sawaalon ka quiz lo — aapke liye careers suggest karega. Answers sirf aapke device pe rehte hain.\n4️⃣ \"Gulf demand\" aur \"Can earn sooner\" tags dekho, aur careers ko side by side compare karo.\n5️⃣ Apne paths email pe save karo aur Kokani mentor se call request karo. 18 se kam umar? Parent ka email use kijiye.\n\nGhar mein koi student hai? Yeh post unke saath share kijiye. 🤝\n\n👉 Try it free: kokaniconnect.com/career-explorer (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniYouth #CareerGuidance #AfterTenth #KokaniParents #KokaniStudents",
+      "ig_media_id": "18131030431843174",
+      "published_at": "2026-11-16T13:32:14+00:00"
+    },
+    {
+      "id": "2026-11-19-fikr-chhodo",
+      "scheduled_at": "2026-11-19T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "learning-wellbeing",
+      "video": "media/2026-11-19-fikr-chhodo-reel.mp4",
+      "cover": "media/2026-11-19-fikr-chhodo-reel-cover.jpg",
+      "caption": "Raat ke 2 baje, neend nahi… aur dimaag mein fikr hi fikr? 🌙\n\nPardes ki zindagi mein kaam, ghar, kharche — sab ki fikr ho jaati hai. Lekin yaad rakhiye:\n\n\"Past is past, future is vast, and present doesn't last.\" ✨\n\n🕰️ Aaj mein jiyo — kal se seekho, lekin aane wale imaginary problems ko yeh pal mat chheenne do.\n🤝 Akele mat raho — dost ko call karo, family ke saath baitho. Apne log fikr ke khilaaf sabse badi taaqat hain.\n🧠 Apne khayalon pe nazar rakho — negative soch neeche kheenchti hai, positive soch upar uthaati hai.\n🤲 Roz thoda mind, body aur soul ke liye — ek walk, thoda exercise, ek sukoon bhari dua.\n\nKhushi ek manzil nahi, ek safar hai. Fikr kam, khushi zyada. ❤️\n\nAgar fikr bahut zyada ho jaaye, toh kisi apne ya doctor se zaroor baat kijiye.\n\n👉 Poora article padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #DontWorryBeHappy #MentalWellbeing #KokaniInGulf #PardesKiZindagi #KokaniCommunity",
+      "ig_media_id": "18107444264336538",
+      "published_at": "2026-11-19T16:21:37+00:00"
+    },
+    {
+      "id": "2026-11-21-pehli-tankhwah",
+      "scheduled_at": "2026-11-21T11:30:00+00:00",
+      "status": "published",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-11-21-pehli-tankhwah-reel.mp4",
+      "cover": "media/2026-11-21-pehli-tankhwah-reel-cover.jpg",
+      "caption": "Pehli tankhwah yaad hai? 💌\n\nNaya shehar, nayi naukri, aur dil mein bahut saari umeedein. Mahina khatam hua, salary aayi… aur sabse pehla kaam? Ghar bhej di. ✈️🏡\n\nUs din phone pe Abba ki awaaz mein jo fakhr tha, aur Ammi ki woh dua jo har roz saath chalti hai — woh kisi bhi salary se badi cheez thi. ❤️\n\nAaj bhi har mahine, humara ek hissa ghar jaata hai. Mehnat yahan, dil wahan.\n\nOur first salary was never just money. It was a thank-you to everyone who made us who we are.\n\n💬 Comment kijiye: pehli tankhwah se aapne ghar ke liye kya kiya tha?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniDiaspora #KokaniInGulf #PardesKiZindagi #KokaniFamily #Konkan",
+      "ig_media_id": "17984565375135263",
+      "published_at": "2026-11-21T12:11:12+00:00"
+    },
+    {
+      "id": "2026-11-23-self-confidence",
+      "scheduled_at": "2026-11-23T11:30:00+00:00",
+      "status": "published",
+      "type": "carousel",
+      "pillar": "career-tips",
+      "images": [
+        "media/2026-11-23-self-confidence-1.jpg",
+        "media/2026-11-23-self-confidence-2.jpg",
+        "media/2026-11-23-self-confidence-3.jpg",
+        "media/2026-11-23-self-confidence-4.jpg",
+        "media/2026-11-23-self-confidence-5.jpg",
+        "media/2026-11-23-self-confidence-6.jpg",
+        "media/2026-11-23-self-confidence-7.jpg"
+      ],
+      "caption": "Confidence paida nahi hota — seekha jaata hai. 💪✨\n\nKokani Connect ke guide se 5 simple steps:\n\n1️⃣ Khud pe yakeen rakho — socho, aapne kab decide kiya ki \"main nahi kar sakta\"? Chhote, clear goals poore karo; yakeen aur kaamyabi ek doosre ko badhaate hain.\n2️⃣ Positive socho — past se seekho, us mein jiyo mat. Rejection aur failure ka darr chhodo.\n3️⃣ Doosron ko blame mat karo — apni zimmedari khud lo. Role models se seekho, lekin apne jaise raho.\n4️⃣ Madad maangna kamzori nahi — izzat se maango, experts se salaah lo, aur doosron ki madad bhi karo.\n5️⃣ Body language — seedhe khade raho, shoulders peeche, sar seedha, aur baat karte waqt aankh mila ke baat karo.\n\nAur yaad rakhiye: confident bano, overconfident nahi. 🙂\n\n\"Success is not final, failure is not fatal: it is the courage to continue that counts.\"\n\nKisi student ya naye job seeker ke saath share kijiye. 🤝\n\n👉 Poora guide padhiye: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #SelfConfidence #KokaniYouth #CareerTips #SelfGrowth #KokaniInGulf",
+      "ig_media_id": "18139151539661111",
+      "published_at": "2026-11-23T11:54:21+00:00"
+    },
+    {
+      "id": "2026-11-26-gulf-course",
+      "scheduled_at": "2026-11-26T11:30:00+00:00",
+      "status": "approved",
+      "type": "carousel",
+      "pillar": "learning-course",
+      "images": [
+        "media/2026-11-26-gulf-course-1.jpg",
+        "media/2026-11-26-gulf-course-2.jpg",
+        "media/2026-11-26-gulf-course-3.jpg",
+        "media/2026-11-26-gulf-course-4.jpg",
+        "media/2026-11-26-gulf-course-5.jpg",
+        "media/2026-11-26-gulf-course-6.jpg",
+        "media/2026-11-26-gulf-course-7.jpg"
+      ],
+      "caption": "Gulf mein job chahiye? Kokani Connect ka naya FREE course aapke liye hai. 🎓💼\n\n\"Get Hired in the Gulf: CV, Profile and Interviews\" — 6 short video lessons:\n\n1️⃣ Gulf mein hiring asal mein kaise hoti hai\n2️⃣ Gulf CV jo sach mein padha jaaye — achievements aur numbers ke saath, ATS-friendly format mein\n3️⃣ Kokani Connect aur LinkedIn profile jo recruiter searches mein dikhe\n4️⃣ Jobs dhoondna aur kisi Kokani se referral maangna — aur fake jobs ko pehchaanna\n5️⃣ Interviews — STAR stories ke saath jawab dena\n6️⃣ Video interviews, salary aur offer letter\n\nSaath mein: CV checklist, STAR worksheet, 10 sawaalon ka final quiz, aur profile pe \"Course completed\" badge. 🏅\n\nFresh graduates, India se Gulf aane wale, ya GCC ke andar job badalne wale — sab ke liye. Yeh tips India aur doosri jagah ki jobs mein bhi kaam aati hain.\n\nBilkul free — bas Kokani Connect pe free sign up kijiye aur Lesson 1 shuru kijiye.\n\nKisi job seeker ko tag kijiye jise yeh chahiye. 🤝\n\n👉 Enrol free: kokaniconnect.com/courses (link in bio)\n\n#KokaniConnect #Kokan #Kokani #GulfJobs #FreeCourse #CVTips #KokaniInGulf #KokaniYouth"
+    },
+    {
+      "id": "2026-11-28-ghar-ka-swaad",
+      "scheduled_at": "2026-11-28T11:30:00+00:00",
+      "status": "draft",
+      "type": "reel",
+      "pillar": "emotional",
+      "video": "media/2026-11-28-ghar-ka-swaad-reel.mp4",
+      "cover": "media/2026-11-28-ghar-ka-swaad-reel-cover.jpg",
+      "caption": "Pardes mein ghar ka swaad dhoondhna… kise yaad nahi? 🍛❤️\n\nFriday ki shaam. Achanak ghar ke khane ki yaad aa gayi — fish curry, garam chawal, aur ek glass kokum. 🥥\n\nRecipe follow ki, sab kuch daala… phir bhi woh baat nahi aayi. Kuch toh kam hai — shayad Ammi ke haath. 🤲\n\nLekin jab khushboo poore kamre mein phail jaati hai, ek pal ke liye lagta hai hum ghar pe hain. 🏡\n\nPhir dost aa jaate hain, plates nikal aati hain, dastarkhwan bichh jaata hai. Ghar se door, hum ek doosre ki family ban gaye. 🤝\n\nFar from home, food tastes like home when it's shared.\n\n💬 Comment kijiye: pardes mein aapko ghar ki kaunsi dish sabse zyada yaad aati hai?\n\n👉 Stay connected with Kokanis worldwide: kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #KokaniFood #GharKaKhana #KokaniInGulf #PardesKiZindagi #KokaniDiaspora"
+    },
+    {
+      "id": "2026-11-30-support-kokani-business",
+      "scheduled_at": "2026-11-30T11:30:00+00:00",
+      "status": "draft",
+      "type": "carousel",
+      "pillar": "business",
+      "images": [
+        "media/2026-11-30-support-kokani-business-1.jpg",
+        "media/2026-11-30-support-kokani-business-2.jpg",
+        "media/2026-11-30-support-kokani-business-3.jpg",
+        "media/2026-11-30-support-kokani-business-4.jpg",
+        "media/2026-11-30-support-kokani-business-5.jpg",
+        "media/2026-11-30-support-kokani-business-6.jpg",
+        "media/2026-11-30-support-kokani-business-7.jpg"
+      ],
+      "caption": "Kokani business ko support karna hai? Zaroori nahi ki har baar paisa kharch ho. 💪🤝\n\n4 simple tareeke:\n\n1️⃣ Follow & share — unki post share kijiye. Ek share unhe aise customer tak pahuncha sakta hai jahan woh akele nahi pahunch sakte.\n2️⃣ Recommend — jab koi pooche \"koi achha photographer pata hai?\", toh unka naam lijiye.\n3️⃣ Review — ek kind aur honest review sirf ek minute leta hai, lekin saalon ka bharosa banata hai.\n4️⃣ Feedback — kuch galat laga? Pehle unhe privately bataiye. Apno ki izzat, apni izzat.\n\nKokani Connect par verified Kokani businesses dhoondhiye — travel, Hajj & Umrah, Kokan mein hotels & homestays, fruit & food suppliers, photography aur bahut kuch. ✈️🏡🥭📸\n\nAapka apna business hai? Kokani Connect par list kijiye — har listing live hone se pehle moderator check karta hai. ✅\n\nApne kisi Kokani business wale dost ko tag kijiye. 👇\n\n👉 kokaniconnect.com/list-business (link in bio)\n\n#KokaniConnect #Kokan #Kokani #SupportKokaniBusiness #KokaniBusiness #KokaniCommunity #KokaniInGulf #ShopLocal"
+    },
+    {
+      "id": "2026-12-03-career-checkup",
+      "scheduled_at": "2026-12-03T11:30:00+00:00",
+      "status": "draft",
+      "type": "carousel",
+      "pillar": "career-tips",
+      "images": [
+        "media/2026-12-03-career-checkup-1.jpg",
+        "media/2026-12-03-career-checkup-2.jpg",
+        "media/2026-12-03-career-checkup-3.jpg",
+        "media/2026-12-03-career-checkup-4.jpg",
+        "media/2026-12-03-career-checkup-5.jpg",
+        "media/2026-12-03-career-checkup-6.jpg",
+        "media/2026-12-03-career-checkup-7.jpg"
+      ],
+      "caption": "December aa gaya — 2026 khatam hone wala hai. Career check-up ka time! 📋✨\n\nNaye saal se pehle yeh 5 kaam kar lijiye:\n\n1️⃣ CV update — is saal ke naye skills, projects aur results likh lijiye, jab tak sab yaad hai.\n2️⃣ Profile refresh — aapka Kokani Connect aur LinkedIn profile aapke CV se match karna chahiye.\n3️⃣ Ek skill chuniye — 2027 ke liye sirf ek. Short course, certification ya ek achhi kitaab. Kokani Connect ke free courses se shuruaat kar sakte hain.\n4️⃣ Network — purane colleagues, seniors, classmates se dobara judiye. Ek simple \"Kaise ho?\" kai darwaze khula rakhta hai.\n5️⃣ Mentor se baat — jo yeh raasta chal chuka hai, woh aapke saalon bacha sakta hai.\n\nNaya saal, nayi shuruaat. Start 2027 ready! 🚀\n\nKisi dost ke saath share kijiye jo naye saal mein nayi job ya growth chahta hai. 🤝\n\n👉 kokaniconnect.com (link in bio)\n\n#KokaniConnect #Kokan #Kokani #CareerTips #KokaniYouth #NewYearGoals #KokaniInGulf #CareerGrowth"
+    }
+  ]
 }
