@@ -306,7 +306,7 @@
     {
       "id": "2026-11-28-ghar-ka-swaad",
       "scheduled_at": "2026-11-28T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "reel",
       "pillar": "emotional",
       "video": "media/2026-11-28-ghar-ka-swaad-reel.mp4",
@@ -316,7 +316,7 @@
     {
       "id": "2026-11-30-support-kokani-business",
       "scheduled_at": "2026-11-30T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "business",
       "images": [
@@ -333,7 +333,7 @@
     {
       "id": "2026-12-03-career-checkup",
       "scheduled_at": "2026-12-03T11:30:00+00:00",
-      "status": "draft",
+      "status": "approved",
       "type": "carousel",
       "pillar": "career-tips",
       "images": [
